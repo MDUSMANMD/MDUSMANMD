@@ -47,7 +47,7 @@ A standalone project iteration that extracts text from PDF or TXT resumes and re
 
 <p align="center"><img src="https://github-stats-extended.vercel.app/api?username=MDUSMANMD&show_icons=true&hide_rank=true&theme=github_dark&hide_border=true&card_width=480&disable_animations=true" alt="Public GitHub statistics for MDUSMANMD" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=MDUSMANMD&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for MDUSMANMD" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=MDUSMANMD&theme=github-dark-blue&hide_border=true&disable_animations=true" alt="GitHub contribution streak for MDUSMANMD" /></p>
 
 <p align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=MDUSMANMD&layout=compact&theme=github_dark&hide_border=true&langs_count=6&disable_animations=true" alt="Languages in public repositories owned by MDUSMANMD" /></p>
 
